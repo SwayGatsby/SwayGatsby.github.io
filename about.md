@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi - I'm Kayla; a 30-something career changer. I've spent my whole adult life working in the third-sector but have decided to retrain in software development. I'm currently learning Ruby, HTML/CSS, Python and soon to be moving on to JavaScript and Java.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I love learning new things so please get in touch if you have any great tips, tutorials or advice!
