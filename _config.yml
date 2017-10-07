@@ -15,9 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Kayla Codes
 email: hello@kaylafowler.com
-description: a journey from charity worker to junior developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://swaygatsby.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SwayGatsby
 github_username:  SwayGatsby
 
